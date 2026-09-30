@@ -1,7 +1,7 @@
 # Capstone Project — Topic 24: Student Performance & Attendance
 ### Silver Layer Decisions, Pipeline Verification & Results
 
-**Name:** Preetam Mondal
+**Name:** Srijoswin Mazumder
 **Domain:** Media, Education & Sport
 **Stack:** Databricks (PySpark, Unity Catalog, Jobs) → Snowflake (Stages, COPY INTO, SQL)
 
